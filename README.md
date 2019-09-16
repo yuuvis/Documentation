@@ -31,7 +31,8 @@
       <a href="https://github.com/yuuvis/Documentation/wiki/Retrieve-history-entries#RetrievingtheHistoryEntriesofaDocument-WhichHistoryEntriesAreThere?" target="_blank">entry types</a>)
    </li>
    <li><a href="https://github.com/yuuvis/Documentation/wiki/Update-documents" target="_blank"><b>Update Documents ...</b></a> 
-      (<a href="https://github.com/yuuvis/Documentation/wiki/Update-documents#UpdatingDocumentsviaCoreAPI-UpdateMetadata" target="_blank">index data</a> / 
+      (<a href="https://github.com/yuuvis/Documentation/wiki/Update-documents#UpdatingDocumentsviaCoreAPI-UpdateMetadata" target="_blank">meta
+      data</a> / 
       <a href="https://github.com/yuuvis/Documentation/wiki/Update-documents#UpdatingDocumentsviaCoreAPI-UpdateContent" target="_blank">content</a> / 
       <a href="https://github.com/yuuvis/Documentation/wiki/Update-documents#UpdatingDocumentsviaCoreAPI-Versioningversioning" target="_blank">versioning</a>)
    </li>
