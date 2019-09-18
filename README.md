@@ -5,7 +5,7 @@
 <ol>
    <li><a href="https://yuuvis.io/" target="_blank">How to Sign Up for the Dev Platform ...</a></li>
    <li><a href="https://github.com/yuuvis/Documentation/wiki/Quick-start" target="_blank">Quick Start: API Intro Guide ...</a></li>
-   <li><a href="https://yuuvis.io/docs/services/yuuvis-admin" target="_blank">Configuration and Settings</a> endpoints</li>
-   <li><a href="https://yuuvis.io/docs/services/yuuvis-dms-core" target="_blank">Core Capabilities (CRUD)</a> endpoints</li>
+   <li><a href="https://github.com/yuuvis/Documentation/wiki/Configuration-and-Settings" target="_blank">Configuration and Settings</a> endpoints</li>
+   <li><a href="https://github.com/yuuvis/Documentation/wiki/Core-Capabilities" target="_blank">Core Capabilities (CRUD)</a> endpoints</li>
    <li><a href="https://github.com/yuuvis/Documentation/wiki/" target="_blank">How to ...</a> descriptions</li>
    </ol>
