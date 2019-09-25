@@ -5,8 +5,8 @@
 <ol>
    <li><a href="https://yuuvis.io/" target="_blank">How to Sign Up for the Dev Platform ...</a></li>
    <li><a href="https://github.com/yuuvis/Documentation/wiki/Quick-start" target="_blank">Quick Start: API Intro Guide ...</a></li>
-   <li><a href="https://github.com/yuuvis/Documentation/wiki/Admin" target="_blank">Schema administration (Admin) endpoints</a></li>
-   <li><a href="https://github.com/yuuvis/Documentation/wiki/MultiView" target="_blank">Rendition services (MultiView) endpoints</a></li>
-   <li><a href="https://github.com/yuuvis/Documentation/wiki/YADB" target="_blank">Yet Another Database (YADB) endpoints</a></li>
+   <li><a href="https://github.com/yuuvis/Documentation/wiki/Admin" target="_blank">Admin - Schema administration endpoints</a></li>
+   <li><a href="https://github.com/yuuvis/Documentation/wiki/MultiView" target="_blank">MultiView - Rendition services endpoints</a></li>
+   <li><a href="https://github.com/yuuvis/Documentation/wiki/YADB" target="_blank">YADB - Yet Another Database endpoints</a></li>
    <li><a href="https://github.com/yuuvis/Documentation/wiki/" target="_blank">How to ... descriptions</a></li>
    </ol>
