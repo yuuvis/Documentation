@@ -4,8 +4,9 @@
 <p>The following information provides the foundation for you to work with the yuuvis<sup>®</sup> API.</p>
 <ol>
    <li><a href="https://yuuvis.io/" target="_blank">How to Sign Up for the Dev Platform ...</a></li>
-   <li><a href="./Quick-start" target="_blank">Quick Start: API Intro Guide ...</a></li>
-   <li><a href="./Configuration-and-Settings" target="_blank">Configuration and Settings</a> endpoints</li>
-   <li><a href="./Core-Capabilities" target="_blank">Core Capabilities (CRUD)</a> endpoints</li>
-   <li><a href="./" target="_blank">How to ...</a> descriptions</li>
+   <li><a href="https://github.com/yuuvis/Documentation/wiki/Quick-start" target="_blank">Quick Start: API Intro Guide ...</a></li>
+   <li><a href="https://github.com/yuuvis/Documentation/wiki/Admin" target="_blank">Schema administration (Admin) endpoints</a></li>
+   <li><a href="https://github.com/yuuvis/Documentation/wiki/MultiView" target="_blank">Rendition services (MultiView) endpoints</a></li>
+   <li><a href="https://github.com/yuuvis/Documentation/wiki/YADB" target="_blank">Yet Another Database (YADB) endpoints</a></li>
+   <li><a href="https://github.com/yuuvis/Documentation/wiki/" target="_blank">How to ... descriptions</a></li>
    </ol>
