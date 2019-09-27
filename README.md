@@ -8,5 +8,5 @@
    <li><a href="https://github.com/yuuvis/Documentation/wiki/Admin" target="_blank">Admin - Schema administration endpoints</a></li>
    <li><a href="https://github.com/yuuvis/Documentation/wiki/MultiView" target="_blank">MultiView - Rendition services endpoints</a></li>
    <li><a href="https://github.com/yuuvis/Documentation/wiki/YADB" target="_blank">YADB - Yet Another Database endpoints</a></li>
-   <li><a href="https://github.com/yuuvis/Documentation/wiki/" target="_blank">How to ... descriptions</a></li>
-   </ol>
+   <li><a href="https://github.com/yuuvis/Documentation/wiki/" target="_blank">How to ... descriptions (Wiki)</a></li>
+</ol>
