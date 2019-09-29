@@ -15,6 +15,7 @@
 </ol>
 
 <hr/>
+
 To learn more about yuuvis® products, please refer to [yuuvis.io](https://yuuvis.io/), try out endpoints in our [developer portal](https://yuuvis.io/Apis/Endpoints/) or visit our [Wiki](https://github.com/yuuvis/Documentation/wiki) for more detailed information ...
 
 &rarr; further yuuvis® repositories: 
