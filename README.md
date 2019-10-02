@@ -3,7 +3,7 @@
 <h2>Getting started</h2>
 <p>The following information provides the foundation for you to work with the yuuvis<sup>®</sup> API.</p>
 <ol>
-   <li><a href="https://yuuvis.io/" target="_blank">How to Sign Up for the Dev Platform</a></li>
+   <li><a href="https://yuuvis.io/Identity/Account/Login" target="_blank">How to Sign Up for the Dev Platform</a></li>
    <li><a href="https://github.com/yuuvis/Documentation/wiki/Quick-start" target="_blank">Quick Start: API Intro Guide</a></li>
    <li>API Components</a>
    <ul>
