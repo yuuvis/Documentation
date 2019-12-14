@@ -5,6 +5,7 @@
 <ol>
    <li><a href="https://yuuvis.io/Identity/Account/Login" target="_blank">How to Sign Up for the Dev Platform</a></li>
    <li><a href="https://github.com/yuuvis/Documentation/wiki/Quick-start" target="_blank">Quick Start: API Intro Guide</a></li>
+   <li><a href="https://github.com/yuuvis/Documentation/wiki/Breaking-changes" target="_blank">Breaking Changes</li>
    <li>API Components</a>
    <ul>
     <li><a href="https://github.com/yuuvis/Documentation/wiki/Admin" target="_blank">Admin - Schema administration endpoints</a></li>
