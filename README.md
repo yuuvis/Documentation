@@ -3,7 +3,7 @@
 <h2>Getting started</h2>
 <p>The following information provides the foundation for you to work with yuuvis<sup>®</sup> Ultimate.</p>
 <ol>
-   <li><a href="https://yuuvis.io/Identity/Account/Login" target="_blank">How to Sign Up for the Dev Platform</a></li>
+   <li><a href="https://developer.yuuvis.com/Identity/Account/Register?returnUrl=%2F" target="_blank">How to Sign Up for the Dev Platform</a></li>
    <li><a href="https://github.com/yuuvis/Documentation/wiki/Quick-start" target="_blank">Quick Start: API Intro Guide</a></li>
    <li><a href="https://github.com/yuuvis/Documentation/wiki/Breaking-Changes" target="_blank">Breaking Changes | <a href="https://github.com/yuuvis/Documentation/wiki/Release" target="_blank">New Releases</li>
    <li>API Components</a>
@@ -17,7 +17,7 @@
 
 <hr/>
 
-To learn more about yuuvis® products, please refer to [yuuvis.io](https://yuuvis.io/), try out endpoints in our [developer portal](https://yuuvis.io/Apis/Endpoints/) or visit our [Wiki](https://github.com/yuuvis/Documentation/wiki) for more detailed information.
+To learn more about yuuvis® products, please refer to [developer.yuuvis.com](https://developer.yuuvis.com/), try out endpoints in our [developer portal](https://developer.yuuvis.com/Apis) or visit our [Wiki](https://github.com/yuuvis/Documentation/wiki) for more detailed information.
 
 &rarr; further yuuvis® repositories: 
 [Python calls](https://github.com/yuuvis/Python-calls) | [Java Script calls](https://github.com/yuuvis/JavaScript-calls) | [Java calls](https://github.com/yuuvis/Java-calls) | [Postman collection](https://github.com/yuuvis/Postman) | [Wiki](https://github.com/yuuvis/documentation)
