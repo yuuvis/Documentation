@@ -8,7 +8,7 @@
    <li><a href="https://github.com/yuuvis/Documentation/wiki/Breaking-Changes" target="_blank">Breaking Changes | <a href="https://github.com/yuuvis/Documentation/wiki/Release" target="_blank">New Releases</li>
    <li>API Components</a>
    <ul>
-    <li><a href="https://github.com/yuuvis/Documentation/wiki/Admin" target="_blank">Admin - Schema administration endpoints and system metrics</a></li>
+    <li><a href="https://github.com/yuuvis/Documentation/wiki/Admin" target="_blank">Admin - Schema administration and system metrics endpoints</a></li>
     <li><a href="https://github.com/yuuvis/Documentation/wiki/MultiView" target="_blank">MultiView - Rendition services endpoints</a></li>
     <li><a href="https://github.com/yuuvis/Documentation/wiki/YADB" target="_blank">YADB - Yet Another Database endpoints</a></li>
    </ul></li>
